@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato|Libre+Baskerville:400italic);
 html,
 body {
+  cursor: url("../cursor.png"), auto;
   background: #fff;
   height: 100vh;
   margin: 0 auto;
@@ -8,6 +9,9 @@ body {
   max-width: 1366px;
   max-height: 660px;
   position: relative; }
+
+a {
+  cursor: url("../cursor.png"), auto; }
 
 .container {
   position: relative;
@@ -104,7 +108,8 @@ body {
     position: static;
     width: 100%;
     text-align: center;
-    padding: 0; }
+    padding: 0;
+    margin-bottom: 40px; }
     .menu__list-elem {
       list-style-type: none; }
 

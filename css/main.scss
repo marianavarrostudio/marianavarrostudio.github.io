@@ -12,6 +12,7 @@ $outsiderim: 40px;
 
 html,
 body {
+  cursor: url('../cursor.png'), auto;
   background: $color-white;
   height: 100vh;
   margin: 0 auto;
@@ -19,6 +20,10 @@ body {
   max-width: 1366px;
   max-height: 660px;
   position: relative;
+}
+
+a {
+  cursor: url('../cursor.png'), auto;
 }
 
 .container {
@@ -148,6 +153,7 @@ body {
     width: 100%;
     text-align: center;
     padding: 0;
+    margin-bottom: 40px;
 
     &__list-elem {
       list-style-type: none;

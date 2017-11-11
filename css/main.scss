@@ -123,6 +123,10 @@ a {
   &.dribble {
     background-color: $color-pink;
   }
+
+  &.other {
+    background-color: $color-yellow;
+  }
 }
 
 @media (max-width: 420px) {

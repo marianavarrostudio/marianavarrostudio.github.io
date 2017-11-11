@@ -110,7 +110,7 @@ a {
   transition: background-color 1s ease;
 
   &.cv {
-    background-color: $color-green;
+    background-color: $color-orange;
   }
 
   &.portfolio {
@@ -118,7 +118,7 @@ a {
   }
 
   &.mail {
-    background-color: $color-orange;
+    background-color: $color-green;
   }
 
   &.dribble {

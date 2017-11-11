@@ -77,11 +77,11 @@ a {
   left: 5%;
   transition: background-color 1s ease; }
   .deco-box.cv {
-    background-color: #aae1dc; }
+    background-color: #fff4d5; }
   .deco-box.portfolio {
     background-color: #b0d5e9; }
   .deco-box.mail {
-    background-color: #fff4d5; }
+    background-color: #aae1dc; }
   .deco-box.dribble {
     background-color: #f5d7d2; }
   .deco-box.other {

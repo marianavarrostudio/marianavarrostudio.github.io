@@ -7,6 +7,7 @@ $color-pink: #f5d7d2;
 $color-green: #aae1dc;
 $color-black: #111;
 $color-orange: #fff4d5;
+$color-peach: #f7d1b1;
 
 $outsiderim: 40px;
 
@@ -122,6 +123,10 @@ a {
 
   &.dribble {
     background-color: $color-pink;
+  }
+
+  &.other {
+    background-color: $color-peach;
   }
 }
 
